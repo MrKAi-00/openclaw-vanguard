@@ -41,4 +41,4 @@ OpenClaw-Vanguard 是一个实验性的**多模态物理空间安防节点 (IoT 
 当前版本为 **核心架构概念验证 (PoC)**。代码已完成多模态多线程的逻辑解耦，随时可接入真实的 OpenCV 摄像头流、PyAudio 麦克风流以及各类开源 LLM 接口。欢迎提交 PR，一起把 Vanguard 部署到边缘硬件节点上！
 
 ---
-*Developed by @hangkairuan-debug*
+*Developed by @MrKAi-00*
